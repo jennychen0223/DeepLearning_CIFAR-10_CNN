@@ -7,7 +7,7 @@
 
 ## 資料來源
 
-1. Cifar-10 是由深度學習大師Geoffrey Hinton教授與其在加拿大多倫多大學的學生Alex Krixhevsky與Vinoid Nair所整理之影像資料集，是機器學習中常用的圖片辨識資料集
+1. CIFAR-10是由深度學習大師Geoffrey Hinton教授與其在加拿大多倫多大學的學生Alex Krixhevsky與Vinoid Nair所整理之影像資料集，是機器學習中常用的圖片辨識資料集
 包含6萬筆32*32低解析度之彩色圖片，其中5萬筆為訓練集
 2. Keras 亦有提供處理 Cifar-10 資料集
 
